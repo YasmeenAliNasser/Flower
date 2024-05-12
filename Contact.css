@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding:0 ;
+}
+.navbar :active
+{
+  border-bottom: 4px solid black;
+
+}
+.header{
+    position: absolute;
+    width: 1320px;
+    height: 100px;
+    left: 0px;
+    top: 0px;  
+    background: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+}
+.header a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: right;
+    top: 20px;
+  
+  }
+  .header h1{
+    color: pink;
+    left: 20px;
+    top: 10px;
+    font-family:'Times New Roman', Times, serif;
+  }
+  .header h1 span{
+    color: rgb(240, 89, 114);
+    left: 20px;
+    top: 10px;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration:underline;
+  }
+.contact{
+    width: 1200px;
+     top:100px;
+    color:white;
+    position: relative;
+    text-align: center;
+ }
+ 
+  
+  
+ .form{
+   width: 350px;
+   height: 500px;
+   /* background: linear-gradient(to top,rgba(0,0,0,0.8)50%, rgba(0,0,0,0.8)50%); */
+   background-color: whitesmoke;
+   position: absolute;
+   top: 200px;
+   left: 50px;
+   border-radius: 10px;
+   padding: 25px;
+ }
+ .form h2{
+   width: 220px;
+   font-family: sans-serif;
+   text-align: center;
+   color: white;
+   font-size: 22px;
+   background-color: #932E56;
+   border-radius: 10px;
+   margin: 2px;
+   padding: 8px;
+ }
+ .form input{
+   width: 340px;
+   height: 80px;
+   background: transparent;
+     border-bottom: 1px solid #932E56;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: #932E56;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    font-family: sans-serif; 
+ }
+ .form input:focus{
+   outline: none;
+ }
+ ::placeholder{
+   color: #932E56;
+   font-family: arial;
+
+ }
+ .btn2{
+   width: 240px;
+   height: 40px;
+   background:#932E56;
+   border: none;
+   margin-top: 30px;
+   font-size: 10px;
+   border-radius: 10px;
+   cursor: pointer;
+   color:white;
+   text-decoration: none;
+   font-size: medium;
+ }
+
+ .btn2.a{
+    color: black;
+    font-size: 40px;
+    font-family: arial;
+    text-decoration: none;
+ }
+ .btn2:hover{
+   background: black;
+   color: white;
+   
+ }
+ body{
+    background-color: #DD7B88;
+ }
+    body{
+  background-image: url("3.jpg");
+}
+.form a{
+    text-decoration: none;
+    color: #DD7B88;
+    height: 50px;
+}
+ 
+ 
+ .imgg{
+  position: absolute;
+  width: 90px;
+  height: 200px;
+  left: 500px;
+  top: 169px;
+  size: 100px;
+ }

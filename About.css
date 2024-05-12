@@ -1,0 +1,146 @@
+.navbar :active
+{
+  border-bottom: 4px solid black;
+
+}
+.header{
+    position: absolute;
+    width: 1320px;
+    height: 100px;
+    left: 0px;
+    top: 0px;  
+    background: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+}
+.header a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: right;
+    top: 20px;
+  
+  }
+  .header h1{
+    color: pink;
+    left: 20px;
+    top: 10px;
+    font-family:'Times New Roman', Times, serif;
+  }
+  .header h1 span{
+    color: rgb(240, 89, 114);
+    left: 20px;
+    top: 10px;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration:underline;
+  }
+   
+.h1{
+    position: absolute;
+width: 420px;
+height: 99px;
+left: 506px;
+top: 158px;
+font-family: 'Rockwell';
+font-style: normal;
+font-weight: 100;
+font-size: 30px; 
+line-height: 70px;
+color: #000000;
+text-align: center;
+
+/* background-color: pink; */
+
+   }
+   .hh1{
+    position: absolute;
+width: 420px;
+height: 99px;
+left: 250px;
+top: 758px;
+
+font-family: 'Rockwell';
+font-style: normal;
+font-weight: 100;
+font-size: 30px;
+line-height: 70px;
+
+color: #000000;
+
+   }
+   .h5{
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    left: 821px;
+    top: 322px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 36px;
+    line-height: 42px;
+    
+    color: black;
+    
+  }
+   
+  
+   .hhhh3{
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    left: 821px;
+    top: 402px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 36px;
+    line-height: 42px;
+    
+    color: gray;
+    
+  }
+   .two{
+    position: absolute;
+    width: 190px;
+    height: 200px;
+    left: 51px;
+    top: 836px;
+   }
+   .three{
+    position: absolute;
+    width: 190px;
+    height: 200px;
+    left: 51px;
+    top: 369px;
+   }
+   .cn{
+    position: absolute;
+    left: 900px;
+    top: 800px;
+    width: 220px;
+    height: 100px;
+    /* 
+    
+    color:pink;
+    background: black;
+    border-radius: 8px;
+    border-color: pink;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: medium; */
+ }
+  
+.cn:hover{
+    
+    position: absolute;
+    background:white;
+     
+}
